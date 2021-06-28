@@ -1,4 +1,4 @@
-package com.devsuperior.dsvendas.repository;
+package com.devsuperior.dsvendas.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
